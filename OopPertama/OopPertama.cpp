@@ -13,3 +13,5 @@ class Mahasiswa {
 		cout << "umur \t: " << umur << endl;
 	}
 };
+
+class Matakuliah {
