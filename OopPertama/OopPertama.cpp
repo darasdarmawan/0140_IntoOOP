@@ -35,4 +35,5 @@ class Matakuliah {
 		}
 };
 
+int main() {
 
