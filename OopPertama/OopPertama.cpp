@@ -38,3 +38,13 @@ class Matakuliah {
 int main() {
 	Mahasiswa mhs;
 	Matakuliah mk;
+	cout << "Masukkan nim : ";
+	cin >> mhs.nim;
+	cout << "Masukkan nama : ";
+	cin >> mhs.nama;
+	cout << "Masukkan umur : ";
+	cin >> mhs.umur;
+
+
+	mk.inputMK();
+
