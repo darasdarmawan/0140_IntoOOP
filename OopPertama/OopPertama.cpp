@@ -47,4 +47,6 @@ int main() {
 
 
 	mk.inputMK();
+	mk.tampilMK();
+
 
