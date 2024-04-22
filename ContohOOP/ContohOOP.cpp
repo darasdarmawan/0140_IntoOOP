@@ -27,6 +27,7 @@ void display() {
 
 int main() {
 	bangunDatar pp;
+	pp.input();
 
 
 
