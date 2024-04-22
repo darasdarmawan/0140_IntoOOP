@@ -48,5 +48,7 @@ int main() {
 
 	mk.inputMK();
 	mk.tampilMK();
+	mhs.tampilData();
+}
 
 
