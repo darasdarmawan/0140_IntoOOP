@@ -24,3 +24,7 @@ void display() {
 	cout << "Luasnya = " << hitungLuas() << endl;
 }
 };
+
+int main() {
+
+
